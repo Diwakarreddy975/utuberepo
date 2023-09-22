@@ -20,7 +20,7 @@ def test_visit_url_randomly():
             driver = webdriver.Firefox()
 
             # Visit the URL
-            driver.get("https://youtu.be/mek6Cur2-qU?si=p_Di1CGI91NhF6Ub")
+            driver.get("https://youtu.be/MB9aQ6Hkoz0?si=rjxMDN-Ofcl2d9-o")
             time.sleep(2)
 
             try:
