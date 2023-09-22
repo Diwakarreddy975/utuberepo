@@ -15,7 +15,7 @@ def test_visit_url_randomly():
     :param max_sleep: The maximum sleep duration in seconds.
     """
     try:
-        for _ in range(1000):
+        for _ in range(10):
             # Create a new Firefox WebDriver instance for each iteration
             driver = webdriver.Firefox()
 

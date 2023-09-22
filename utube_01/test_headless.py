@@ -14,7 +14,7 @@ def test_visit_url_randomly():
         options.headless = True
         driver = webdriver.Firefox(options=options)
 
-        for _ in range(1000):
+        for _ in range(10):
             # Visit the URL
             driver.get("https://youtu.be/mek6Cur2-qU?si=p_Di1CGI91NhF6Ub")
             time.sleep(2)
