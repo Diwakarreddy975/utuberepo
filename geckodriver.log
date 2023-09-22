@@ -1,0 +1,57 @@
+1695393044116	geckodriver	INFO	Listening on 127.0.0.1:53663
+1695393047173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofileaZMVgH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695393047464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695393047560	Marionette	INFO	Listening on port 53672
+WebDriver BiDi listening on ws://127.0.0.1:53664
+Read port: 53672
+1695393048081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53664/devtools/browser/80e5e244-ee46-4940-b0f3-fc9b836059a9
+1695393079602	Marionette	INFO	Stopped listening on port 53672
+JavaScript warning: https://www.google.com/js/th/qj1nkYDZFsZ45STQC_t91Ttn5FIAUhjsWqGcw3cvHws.js line 2 > eval line 2123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/59a3a323/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1623: Script terminated by timeout at:
+c@https://www.youtube.com/s/desktop/59a3a323/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1623:122
+e@https://www.youtube.com/s/desktop/59a3a323/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1632:371
+
+Dynamically enable window occlusion 1
+JavaScript error: https://www.google.com/js/th/qj1nkYDZFsZ45STQC_t91Ttn5FIAUhjsWqGcw3cvHws.js line 2 > eval, line 2123: TypeError: can't access dead object
+1695393146391	geckodriver	INFO	Listening on 127.0.0.1:53756
+1695393149458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofile4lUqNT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695393149785	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695393149887	Marionette	INFO	Listening on port 53765
+WebDriver BiDi listening on ws://127.0.0.1:53757
+Read port: 53765
+1695393150064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53757/devtools/browser/42013a78-01dd-4572-9197-ab413f451e27
+JavaScript warning: https://www.google.com/js/th/qj1nkYDZFsZ45STQC_t91Ttn5FIAUhjsWqGcw3cvHws.js line 2 > eval line 2140 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/59a3a323/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 2544: Script terminated by timeout at:
+Fp.prototype.transition@https://www.youtube.com/s/desktop/59a3a323/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:2544:33
+nI/<@https://www.youtube.com/s/desktop/59a3a323/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:8577:114
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695393841955	Marionette	INFO	Stopped listening on port 53765
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+outube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/qj1nkYDZFsZ45STQC_t91Ttn5FIAUhjsWqGcw3cvHws.js line 2 > eval, line 6780: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/desktop/59a3a323/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 11471: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?si=p_Di1CGI91NhF6Ub&v=mek6Cur2-qU&feature=youtu.be, line 12: TypeError: can't access dead object
